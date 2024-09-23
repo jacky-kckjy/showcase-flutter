@@ -1,0 +1,19 @@
+{
+  "nav_pokemon_list": "Pokémon Centre",
+  "label_search_bar": "Search Pokémon by name / id",
+  "alert_empty_list": "No pokémon found",
+  "label_pokemon_stat_hp": "HP",
+  "label_pokemon_stat_attack": "Attack",
+  "label_pokemon_stat_defense": "Defense",
+  "label_pokemon_stat_special_attack": "Sp. Atk",
+  "label_pokemon_stat_special_defense": "Sp. Def",
+  "label_pokemon_stat_speed": "Speed",
+  "label_pokemon_evolution": "Evolution",
+  "label_pokemon_evolution_previous": "prev.",
+  "label_pokemon_evolution_next": "next",
+  "label_pokemon_gallery": "Gallery",
+  "label_pokemon_about": "About",
+  "label_pokemon_about_height": "Height",
+  "label_pokemon_about_weight": "Weight",
+  "label_pokemon_about_category": "Category"
+}
